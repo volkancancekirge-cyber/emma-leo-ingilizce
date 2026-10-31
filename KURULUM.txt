@@ -1,0 +1,9 @@
+Emma & Leo iPhone PWA
+
+1. ZIP dosyasını açın. Tüm dosyaları birlikte bir HTTPS statik web sunucusuna (ör. GitHub Pages, Netlify) yükleyin.
+2. iPhone Safari ile HTTPS adresini ziyaret edin.
+3. Paylaş > Ana Ekrana Ekle > Ekle.
+4. Konuşma bölümünde mikrofona dokunun ve izin verin.
+5. Konuşma tanıma desteği tarayıcıya göre değişir; çalışmazsa yazılı giriş kullanın.
+6. Yerel HTML dosyasını açmak mikrofon/PWA kurulumunu garanti etmez.
+7. Çevrimdışı önbellek hikâye içeriği içindir, konuşma tanıma için değildir.
